@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AtividadeAC1</string>
+    <string name="add_habit">Adicionar Hábito</string>
+    <string name="habit_name">Nome do Hábito</string>
+    <string name="habit_description">Descrição do Hábito</string>
+    <string name="save">Salvar</string>
+    <string name="mark_done">Marcar como feito</string>
+    <string name="delete">Excluir</string>
+</resources>
+
+
