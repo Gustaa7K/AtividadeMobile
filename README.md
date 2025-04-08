@@ -1,16 +1,16 @@
-# 📱 AtividadeAC1 - App de Controle de Hábitos
+#  AtividadeAC1 - App de Controle de Hábitos
 
 Este é um aplicativo Android desenvolvido em Java para auxiliar usuários a registrar, editar e acompanhar hábitos diários. O projeto foi desenvolvido como parte da disciplina de Desenvolvimento Mobile.
 
 ---
 
-## 🔧 Funcionalidades
+##  Funcionalidades
 
 - ✅ **Adicionar novos hábitos**
 - ✏️ **Editar hábitos já cadastrados**
 - ❌ **Excluir hábitos com clique longo**
 - 📆 **Marcar hábito como "cumprido hoje"**
-- 🌍 **Suporte a múltiplos idiomas (internacionalização)**
+
 
 ---
 
@@ -20,7 +20,7 @@ Este é um aplicativo Android desenvolvido em Java para auxiliar usuários a reg
 
 ---
 
-## 🚀 Como executar o projeto
+## Como executar o projeto
 
 ### Pré-requisitos
 
@@ -41,14 +41,7 @@ git clone https://github.com/Gustaa7K/AtividadeMobile.git
 
 ---
 
-## 🌐 Idiomas suportados
-
-- Português 🇧🇷
-- Inglês 🇺🇸
-
----
-
-## 👨‍💻 Desenvolvedor
+## Desenvolvedor
 
 **Gustavo Silva Santos**  
 📧 gsilvasantos345@gmail.com  
