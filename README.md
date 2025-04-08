@@ -14,12 +14,6 @@ Este é um aplicativo Android desenvolvido em Java para auxiliar usuários a reg
 
 ---
 
-## 📸 Screenshots
-
-*(Adicione aqui prints do app rodando, se quiser)*
-
----
-
 ## Como executar o projeto
 
 ### Pré-requisitos
